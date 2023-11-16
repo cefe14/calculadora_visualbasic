@@ -1,0 +1,17 @@
+C:\Users\Jonatan Arburúa\source\repos\Calculadora_dos\Calculadora_dos\bin\Debug\Calculadora_dos.exe.config
+C:\Users\Jonatan Arburúa\source\repos\Calculadora_dos\Calculadora_dos\bin\Debug\Calculadora_dos.exe
+C:\Users\Jonatan Arburúa\source\repos\Calculadora_dos\Calculadora_dos\bin\Debug\Calculadora_dos.pdb
+C:\Users\Jonatan Arburúa\source\repos\Calculadora_dos\Calculadora_dos\bin\Debug\Calculadora_dos.xml
+C:\Users\Jonatan Arburúa\source\repos\Calculadora_dos\Calculadora_dos\obj\Debug\Calculadora_dos.vbproj.AssemblyReference.cache
+C:\Users\Jonatan Arburúa\source\repos\Calculadora_dos\Calculadora_dos\obj\Debug\Calculadora_dos.Form1.resources
+C:\Users\Jonatan Arburúa\source\repos\Calculadora_dos\Calculadora_dos\obj\Debug\Calculadora_dos.Resources.resources
+C:\Users\Jonatan Arburúa\source\repos\Calculadora_dos\Calculadora_dos\obj\Debug\Calculadora_dos.vbproj.GenerateResource.cache
+C:\Users\Jonatan Arburúa\source\repos\Calculadora_dos\Calculadora_dos\obj\Debug\Calculadora_dos.vbproj.CoreCompileInputs.cache
+C:\Users\Jonatan Arburúa\source\repos\Calculadora_dos\Calculadora_dos\obj\Debug\Calculadora_dos.exe
+C:\Users\Jonatan Arburúa\source\repos\Calculadora_dos\Calculadora_dos\obj\Debug\Calculadora_dos.xml
+C:\Users\Jonatan Arburúa\source\repos\Calculadora_dos\Calculadora_dos\obj\Debug\Calculadora_dos.pdb
+C:\Users\Jonatan Arburúa\source\repos\Calculadora_dos\Calculadora_dos\obj\Debug\Interop.WMPLib.dll
+C:\Users\Jonatan Arburúa\source\repos\Calculadora_dos\Calculadora_dos\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Jonatan Arburúa\source\repos\Calculadora_dos\Calculadora_dos\obj\Debug\Calculadora_dos.vbproj.ResolveComReference.cache
+C:\Users\Jonatan Arburúa\source\repos\Calculadora_dos\Calculadora_dos\bin\Debug\Interop.WMPLib.dll
+C:\Users\Jonatan Arburúa\source\repos\Calculadora_dos\Calculadora_dos\bin\Debug\AxInterop.WMPLib.dll
